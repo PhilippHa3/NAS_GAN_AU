@@ -1,2 +1,4 @@
-# NAS_GAN_AU
-Semester project for Deep Learning for Visual Recognition at Aarhus University.
+# TODO: Add README.md
+
+## Colab Notebook
+PyTorch Colab notebook: [CycleGAN](https://colab.research.google.com/github/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/CycleGAN.ipynb)
