@@ -1,5 +1,6 @@
 # TODO: Change README.md
 
+The infrastucture of the code has been taken from https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix, where we added our contributions in.
 ---
 To download the dataset:
 ```
